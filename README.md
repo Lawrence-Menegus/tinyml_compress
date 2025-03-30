@@ -82,6 +82,7 @@ pruned_model = prune_model_tflite(model, sparsity=0.5)
 
 ### Pruning in PyTorch
 from model_conversion import prune_model_pytorch
+
 model = torch.nn.Linear(5, 10)
 pruned_model = prune_model_pytorch(model, amount=0.3)
 
