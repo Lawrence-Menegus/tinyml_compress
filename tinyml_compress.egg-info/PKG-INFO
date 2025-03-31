@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: tinyml_compress
-Version: 1.0.1
+Version: 1.0.2
 Summary: A library for converting, optimizing, and saving/loading machine learning models.
 Home-page: https://github.com/Lawrence-Menegus/tinyml_compress
 Author: Lawrence Menegus
